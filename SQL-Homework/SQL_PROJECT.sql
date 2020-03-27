@@ -76,9 +76,11 @@ FROM Facilities
 /* Q6: You'd like to get the first and last name of the last member(s)
 who signed up. Do not use the LIMIT clause for your solution. */
 
-SELECT firstname, surname, max(joindate) 
+SELECT firstname, surname
 FROM Members
-
+WHERE joindate = (
+SELECT MAX(joindate) 
+FROM Members)
 
 
 
