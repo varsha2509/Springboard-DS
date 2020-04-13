@@ -17,4 +17,8 @@ Unused-data
 All_NO2_Facilities_Final.csv
 NO2_Facility_EmsDist_ALL.csv
 NO2_Facility_EmsDist_Inputs.csv
-
+Combined_BC_Dist.csv
+Combined_NO2_Dist.csv
+NO2_Facility_Data.csv
+PM_Facility_Data.csv
+all_traffic_intersections.csv
