@@ -25,3 +25,11 @@ all_traffic_intersections.csv
 Traffic_score.csv
 Traffic_score_2000.csv
 MetStations_CA.csv
+BC_dist_highway.csv
+NO2_dist_highway.csv
+PM_Facility_Data.csv
+highway_locations.csv
+wind.mon.mean.nc
+NO2_Facility_Data.csv
+Combined_BC_EmsDist.csv
+Combined_NO2_EmsDist.csv
