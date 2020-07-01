@@ -1,10 +1,10 @@
-This is the repository for my Capstone Project 1 for the Springboard Data Science Program. The project is titled "Air Quality Prediction in East Bay Area, CA - Building a Machine Learning Model for Air Quality Predictions".
+This is the repository for my Capstone Project 1 for the Springboard Data Science Program. The project is titled "*Air Quality Prediction in East Bay Area, CA - Building a Machine Learning Model for Air Quality Predictions*".
 
 The following files and folders are included in this repository: 
 
 Final Report and Slides:
-1) Final Report: https://docs.google.com/document/d/1O4EVbfy25cbHRh-oj5EiFordC1YzO6AiKUTk2HrFMdk/edit?usp=sharing
-2) Slide Deck: https://docs.google.com/presentation/d/1bp7oKs9OSkd6tRHPIkXlks3w1ckTvMdcWbapUzMmYgA/edit?usp=sharing
+1) [Final Report](https://docs.google.com/document/d/1O4EVbfy25cbHRh-oj5EiFordC1YzO6AiKUTk2HrFMdk/edit?usp=sharing)
+2) [Slide Deck](https://docs.google.com/presentation/d/1bp7oKs9OSkd6tRHPIkXlks3w1ckTvMdcWbapUzMmYgA/edit?usp=sharing)
 
 Progress Reports: 
 1) Project Proposal: https://docs.google.com/document/d/1DZSjTnbRphXPJafBAojMb5ssY3CB8ZgSLfkbO-fq0PE/edit?usp=sharing
