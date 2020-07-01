@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <title>Zoning_Eff20181211_Ord13513</title>
+                <geoform>vector digital data</geoform>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Oakland zoning effective Dec 11, 2018 per Ordinance 13513.An Ordinance, As Recommended By The City Planning Commissionfor the rezoning of the three vacant parcels, and development located at 601 Mac Arthur Boulevard from the RM-3 Mixed Housing Type Residential Zone to the RU-2 Urban Residential Zone.</abstract>
+            <purpose>Oakland zoning effective Dec 11, 2018 per Ordinance 13513.</purpose>
+        </descript>
+        <spdom>
+            <bounding>
+                <westbc>-122.357044</westbc>
+                <eastbc>-122.112440</eastbc>
+                <northbc>37.888065</northbc>
+                <southbc>37.630058</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>ISO 19115 Topic Categories</themekt>
+                <themekey>planningCadastre</themekey>
+            </theme>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Oakland</themekey>
+                <themekey>Zoning</themekey>
+                <themekey>planning</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>The information is based on the City's current GIS data. Because the status of layers shown on the map can change, and the GIS data may contain errors, omissions or inaccuracies, the information provided in this map is for reference only, not intended for any other use and should not be relied on for any other purpose. To obtain the latest information in the area(s) of your interest, or to confirm the zoning, please contact the Zoning Information Hotline Counter at (510) 238-3911.</useconst>
+        <datacred>City of Oakland Bureau of Planning</datacred>
+        <native>Esri ArcGIS 10.5.1.7333</native>
+    </idinfo>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>GT-polygon composed of chains</sdtstype>
+                <ptvctcnt>1314</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>Zoning_Eff20181211_Ord13513</enttypl>
+            </enttyp>
+            <attr>
+                <attrlabl>FID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Coordinates defining the features.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>AREA</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>PERIMETER</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>BaseZone</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Overlay</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>ZnLabel</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Ordinance</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>GlobalID</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>LastUpdate</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SHAPE_AREA</attrlabl>
+                <attrdef>Area of feature in internal units squared.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>SHAPE_LEN</attrlabl>
+            </attr>
+        </detailed>
+    </eainfo>
+    <metainfo>
+        <metd>20190911</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>City of Oakland</cntorg>
+                    <cntper>Micaela Pronio</cntper>
+                </cntorgp>
+                <cntpos>Graphic Delineator</cntpos>
+                <cntvoice>510-238-4932</cntvoice>
+                <cntemail>mpronio@oaklandca.gov</cntemail>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
