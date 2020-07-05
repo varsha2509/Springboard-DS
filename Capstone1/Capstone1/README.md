@@ -1,4 +1,4 @@
-# Air Quality Prediction in East Bay Area, CA - 
+# Air Quality Prediction in East Bay Area, CA 
 ## Building a Machine Learning Model for Air Quality Predictions
 
 This is the repository for my Capstone Project 1 for the Springboard Data Science Program. The project is titled "**Air Quality Prediction in East Bay Area, CA - Building a Machine Learning Model for Air Quality Predictions**".
