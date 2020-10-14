@@ -15,11 +15,12 @@ The following files and folders are included in this repository:
 
 
 **Google Colab Notebooks:**
-1) [Data Cleaning - National Emissions Inventory Data](https://github.com/varsha2509/Springboard-DS/blob/master/Capstone1/Capstone1/Data-Cleaning-NEI-Data.ipynb)
-2) [Daymet Data - API Call](https://github.com/varsha2509/Springboard-DS/blob/master/Capstone1/Capstone1/Daymet-Data-API-Call.ipynb)
-3) [Traffic Data - Open Street Maps](https://github.com/varsha2509/Springboard-DS/blob/master/Capstone1/Capstone1/OSM-Traffic-Data.ipynb)
-4) [Distance to Facilities](https://github.com/varsha2509/Springboard-DS/blob/master/Capstone1/Capstone1/Calculate-Distance-To-All-Facilities.ipynb)
-5) [Exploratory Data Analysis](https://github.com/varsha2509/Springboard-DS/blob/master/Capstone1/Capstone1/Exploratory-Data-Analysis.ipynb) 
-6) [Statistical Data Analysis and Machine Learning](https://github.com/varsha2509/Springboard-DS/blob/master/Capstone1/Capstone1/Statistical-Data-Analysis-And-Machine-Learning-All-Facilities.ipynb)
-7) [Visualizations](https://github.com/varsha2509/Springboard-DS/blob/master/Capstone1/Capstone1/Visualizations.ipynb)
+1) [Loading Data](https://github.com/varsha2509/Springboard-DS/blob/master/Capstone2/Colab/DeepSat6_LoadData.ipynb)
+2) [Exploratory Data Analysis](https://github.com/varsha2509/Springboard-DS/blob/master/Capstone2/Colab/DeepSat6_ExploratoryDataAnalysis.ipynb)
+3) [Random Forest Classifier](https://github.com/varsha2509/Springboard-DS/blob/master/Capstone2/Colab/DeepSat6_RandomForest.ipynb)
+4) [Baseline CNN Model](https://github.com/varsha2509/Springboard-DS/blob/master/Capstone2/Colab/DeepSat6_CNN.ipynb)
+5) [Transfer Learning 1 (with padding)](https://github.com/varsha2509/Springboard-DS/blob/master/Capstone2/Colab/%20DeepSat6_Vgg16_TL_Base_WithPadding.ipynb%20) 
+6) [Transfer Learning 2 (with Upsampling)](https://github.com/varsha2509/Springboard-DS/blob/master/Capstone2/Colab/DeepSat6_Vgg16_TL_Base_UpSampling.ipynb)
+7) [Transfer Learning 3 (with fine tuning)](https://github.com/varsha2509/Springboard-DS/blob/master/Capstone2/Colab/DeepSat6_Vgg16_FineTuning_WithPadding.ipynb)
+8) [Model Comparison](https://github.com/varsha2509/Springboard-DS/blob/master/Capstone2/Colab/DeepSat6_CNN_Model_Comparison.ipynb)
 
