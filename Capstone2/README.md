@@ -1,7 +1,11 @@
 # Classifying DeepSat-6 Satellite Images Using Convolution Neural Networks
 
 
-![Sat Image](Image2.png)
+
+<p align="center">
+  <img src="Image2.png" alt="Sublime's custom image"/>
+</p>
+
 
 This is the repository for my Capstone Project 2 for the Springboard Data Science Program. The project is titled "**Classifying DeepSat-6 Satellite Images Using Convolution Neural Networks**".
 
