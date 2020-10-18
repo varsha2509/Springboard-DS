@@ -1,6 +1,7 @@
 # Classifying DeepSat-6 Satellite Images Using Convolution Neural Networks
 
 
+![Sat Image]('Image2.png')
 This is the repository for my Capstone Project 2 for the Springboard Data Science Program. The project is titled "**Classifying DeepSat-6 Satellite Images Using Convolution Neural Networks**".
 
 In this project, I’m using the DeepSat-6 satellite dataset which contains images extracted from the National Agriculture Imagery Program (NAIP) dataset to build a multi-class classification algorithm using convolution neural networks to assign a label for each image among several labels. The original dataset was extracted from [Kaggle](https://www.kaggle.com/crawford/deepsat-sat6).
